@@ -4,8 +4,8 @@ Built because weather apps lie. 72°F sounds fine until you're standing in 20mph
 
 What it shows
 
-Feels like temperature — accounts for wind chill in winter, heat index in summer
-Wind — speed and direction, flagged when it's strong enough to matter
-Sun / cloud cover — how much direct sun you're actually getting
-Humidity — the thing every app buries in a submenu
-Side-by-side comparison — pulls from multiple sources so you can see where they disagree
+Feels like temperature: accounts for wind chill in winter, heat index in summer
+Wind: speed and direction, flagged when it's strong enough to matter
+Sun / cloud cover: how much direct sun you're actually getting
+Humidity: the thing every app buries in a submenu
+Side-by-side comparison: pulls from multiple sources so you can see where they disagree
