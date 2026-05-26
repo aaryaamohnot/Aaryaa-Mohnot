@@ -4,7 +4,7 @@ import os
 
 app = Flask(__name__)
 
-API_KEY = "YOUR_API_KEY_HERE"  # paste your OpenWeatherMap key here
+API_KEY = "951f7b83a8c15be6dfa68c62b8b5af06"  
 BASE_URL = "https://api.openweathermap.org/data/2.5/weather"
 
 def get_weather(city):
